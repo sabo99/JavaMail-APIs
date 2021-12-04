@@ -11,11 +11,11 @@ Java Mail Sender Android with Kotlin & Java
 ## **Important!**
 ### Config Google Account
 - Make sure not to use **private email**
-- Go To <a href="https://myaccount.google.com/">Google Account</a>
+- Go To <a href="https://myaccount.google.com/">`Google Account`</a>
   <br>
-- Go To **Security**
-- Turn off **2-Step Verification**
-- Turn off **Less secure app access**
+- Go To **`Security`**
+- Turn off **`2-Step Verification`**
+- Turn off **`Less secure app access`**
 
 ### Config JavaMail APIs
 
