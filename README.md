@@ -19,7 +19,7 @@ Java Mail Sender Android with Kotlin & Java
 
 ### Config JavaMail APIs
 
-In the file <a href="app/src/main/java/com/sabo/todolist_ci4_restful/Helper/JavaMailAPI/Credentials.kt">`Credentials.kt`</a> change the following line with the email that will be used as Sender
+In the file <a href="https://github.com/sabo99/JavaMail-APIs/blob/master/app/src/main/java/com/sabo/javamailapis/Helpers/Credentials.kt">`Credentials.kt`</a> change the following line with the email that will be used as Sender
 
 ```kotlin
 object Credentials {
